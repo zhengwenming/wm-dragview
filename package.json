@@ -1,0 +1,38 @@
+{
+    "name": "uni-wmdragview",
+    "title": "wm-dragview.vue",
+    "version": "0.0.2",
+    "description": "A vue component for any dragable view",
+    "main": "wm-dragview/wm-dragview.vue",
+    "files": [
+        "wm-dragview/wm-dragview.vue"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "uni-wmdragview",
+        "dragview",
+        "drag",
+        "view",
+        "wmdrag",
+        "wmdragview",
+        "wm-dragview",
+        "free",
+        "move",
+        "freeball",
+        "Fab"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhengwenming/uni-wmdragview.git"
+    },
+    "dependencies": {
+        
+    },
+    "author": {
+        "name": "zhengwenming",
+        "email": "740747055@qq.com"
+    },
+    "license": "MIT"
+}
