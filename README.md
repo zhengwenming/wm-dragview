@@ -3,11 +3,16 @@
 
 # 1 引入
 ```javascript
-import wm-dragView from "wm-dragview.vue";
+import wmdragview from  '@/components/wm-dragview/wm-dragview.vue';
 ```
 
 # 2 使用组件
-<wm-dragview class='float-ball' :isDock="true" :x=x :y=y @clickDragView="handleClick"></wm-dragview>
+```javascript
+const x = 200, y = 280;
+<wmdragview :isDock="true" :x=x :y=y @clickDragView="handleClick">
+    <image class="float-ball" src="../../static/xlc/xlc-kefu.gif"></image>
+</wmdragview>
+ ```
 
 # 3 样式
 ```javascript
