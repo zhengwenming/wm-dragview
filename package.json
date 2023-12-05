@@ -3,15 +3,15 @@
     "title": "wm-dragview.vue",
     "version": "0.0.2",
     "description": "A vue component for any dragable view",
-    "main": "wm-dragview/wm-dragview.vue",
+    "main": "components/wm-dragview/wm-dragview.vue",
     "files": [
-        "wm-dragview/wm-dragview.vue"
+        "components/wm-dragview/wm-dragview.vue"
     ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "uni-wmdragview",
+        "WMDragView",
         "dragview",
         "drag",
         "view",
